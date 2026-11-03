@@ -59,7 +59,7 @@ juego y su diseño fueron desarrollados por el equipo.
 
 ## ▶️ Cómo ejecutarlo
 ```bash
-git clone https://github.com/<usuario>/Trabajo-Final-Primer-Ciclo.git
+git clone https://github.com/<BrawlTitan>/Trabajo-Final-Primer-Ciclo.git
 ```
 1. Abre la solución (`.sln`) en Visual Studio.
 2. Compila y ejecuta (**Ctrl + F5**).
@@ -141,7 +141,7 @@ developed by the team.
 
 ## ▶️ How to run
 ```bash
-git clone https://github.com/<user>/Trabajo-Final-Primer-Ciclo.git
+git clone https://github.com/<BrawlTitan>/Trabajo-Final-Primer-Ciclo.git
 ```
 1. Open the solution (`.sln`) in Visual Studio.
 2. Build and run (**Ctrl + F5**).
